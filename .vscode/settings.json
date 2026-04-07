@@ -1,0 +1,10 @@
+{ 
+    "C_Cpp.default.includePath": ["/sgdk/inc",
+    "/sgdk/res",
+    "res",
+    "inc"
+],
+"chat.tools.terminal.autoApprove": {
+    "mv": true
+}
+}
